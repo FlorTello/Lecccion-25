@@ -1,5 +1,5 @@
 input{
-  color: red;
+  color: #3c5a98;
   border-radius: 2px;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -10,15 +10,19 @@ input{
 .text-center{
   text-align: center;
   margin: 10px;
+  color: #444;
 }
 #contenedor{
   margin-top: 30px;
+  /*display:inline-flex;*/
+  /*position: relatives;*/
 }
 .contenedor-imagen{
-  width: 425px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
   display: inline-block;
-  margin: 0 10px 20px 10px;
+  /*display:inline-flex;*/
+  margin: 0px 10px 20px 0px;
 }
 img{
   width: 100%;
